@@ -101,8 +101,10 @@ h1 {
     color: yellow;
     font-size: 30px;
     float: left;
-    position: absolute;
+    padding: 15px;
     top: 50px;
+    font-family: "Merriweather", serif;
+
 }
 img {
     width: 100%;
